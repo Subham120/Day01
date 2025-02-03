@@ -1,4 +1,4 @@
-# Day01
+#01
 
 // wap to check student fail , pass or distinaction
 import java.util.*;
